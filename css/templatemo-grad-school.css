@@ -628,7 +628,7 @@ section.coming-soon {
     padding: 120px 0px;
 }
 
-#images  {display: inline; margin: 10px; float: left; }
+#images  {display: inline; margin: 10px; float: left; padding: 20px; }
 
 section.coming-soon .continer .counter div {
   display: inline-block;
